@@ -1,0 +1,12 @@
+{
+  "modelVersion": "6.1.0",
+  "description": "DeepSeek Chat for HarmonyOS 7, native ArkTS port of deepseek-ai/chat-demo.",
+  "dependencies": {
+    "@luvi/lv-markdown-in": "^3.4.7"
+  },
+  "devDependencies": {
+    "@ohos/hypium": "1.0.25",
+    "@ohos/hamock": "1.0.0"
+  },
+  "dynamicDependencies": {}
+}

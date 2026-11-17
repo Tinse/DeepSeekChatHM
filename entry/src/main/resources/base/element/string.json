@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "DeepSeek Chat native client"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "DeepSeek Chat"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "DeepSeek Chat"
+    },
+    {
+      "name": "network_info_reason",
+      "value": "用于展示当前网络状态并优化流式连接"
+    },
+    {
+      "name": "microphone_reason",
+      "value": "用于语音输入，录音仅上传至 DeepSeek 语音识别接口"
+    },
+    {
+      "name": "vibrate_reason",
+      "value": "用于发送与完成时的触感反馈"
+    }
+  ]
+}

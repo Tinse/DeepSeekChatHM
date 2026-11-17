@@ -1,0 +1,11 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "DeepSeek Chat entry module",
+  "main": "",
+  "author": "tinse",
+  "license": "MIT",
+  "dependencies": {
+    "@luvi/lv-markdown-in": "^3.4.7"
+  }
+}

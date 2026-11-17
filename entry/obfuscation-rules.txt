@@ -1,0 +1,3 @@
+# Project-specific obfuscation rules for the release build.
+# Keep the default ArkGuard behavior; add keep rules here when a library
+# relies on reflection or exported symbol names.
